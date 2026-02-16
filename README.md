@@ -1,53 +1,70 @@
-<h1 align="center">Hi, I’m Asim Alizada 👋</h1>
-<p align="center">
-  Full-Stack Software Engineer • Cloud-Native Systems • Microservices
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/alizada-asim">LinkedIn</a> •
-  <a href="https://github.com/asimalizada">GitHub</a> •
-  <a href="https://leetcode.com/asimalizada">LeetCode</a>
-</p>
+# Asim Alizada  
+**Full-Stack Software Engineer**  
+Cloud-Native Systems • Microservices • Scalable Web Applications
+
+[LinkedIn](https://linkedin.com/in/alizada-asim) ·
+[GitHub](https://github.com/asimalizada) ·
+[LeetCode](https://leetcode.com/asimalizada)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-I’m a Full-Stack Software Engineer with 4+ years of experience building scalable, cloud-native applications and distributed systems.  
-My work focuses on clean architecture, performance optimization, and delivering reliable backend services paired with modern frontend experiences.
+I’m a Full-Stack Software Engineer with 4+ years of experience building **scalable, cloud-native applications** and **distributed systems**.  
+My focus is on **clean architecture**, **performance**, and **reliability** — building systems that are easy to maintain and ready to scale.
 
-### 🛠 Tech Stack
+I work mostly with **.NET, Node.js, Angular, React/Next.js**, and modern cloud infrastructure.
+
+---
+
+## Tech Stack
 
 **Backend**  
-C#, .NET Core, ASP.NET Core, Node.js (NestJS, Express), GraphQL  
+C#, .NET Core, ASP.NET Core, Node.js (NestJS, Express), GraphQL
 
 **Frontend**  
-Angular, React, Next.js, TypeScript  
+Angular, React, Next.js, TypeScript
 
 **Data**  
-PostgreSQL, SQL Server, MongoDB  
+PostgreSQL, SQL Server, MongoDB
 
 **Cloud & DevOps**  
-AWS, Azure, Docker, CI/CD  
+AWS, Azure, Docker, CI/CD
 
 **Architecture & Practices**  
 Microservices, Event-Driven Systems, Distributed Systems, Clean Architecture
 
-### 🎯 What I Focus On
+---
 
-- Designing maintainable, scalable backend systems  
+## Selected Projects
+
+- **simulation-engine** — Modular C# framework for dynamic systems  
+- **task-manager** — Web application built with Angular & TypeScript  
+- **GuideWebService** — .NET 6 REST API project  
+
+---
+
+## What I Focus On
+
+- Designing scalable backend architectures  
 - Building high-performance APIs  
-- Developing modern web interfaces  
-- Improving reliability through clean architecture and profiling  
+- Writing clean, maintainable, testable code  
+- Improving system reliability and performance  
 
-### 📍 Location & Links
+---
+
+## Contact
 
 - 📍 Baku, Azerbaijan  
 - 🔗 LinkedIn: https://linkedin.com/in/alizada-asim  
-- 🧩 LeetCode: https://leetcode.com/asimalizada  
+- 📧 Email: asim.alizada.dev@gmail.com  
 
 ---
 
 <p align="center">
-  <i>Building reliable systems with clean architecture and scalable design.</i>
+  <i>“Build systems that scale. Write code that lasts.”</i>
 </p>
