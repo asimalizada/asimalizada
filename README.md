@@ -15,7 +15,7 @@ Cloud-Native Systems • Microservices • Scalable Web Applications
 ## About
 
 I’m a Full-Stack Software Engineer with 4+ years of experience building **scalable, cloud-native applications** and **distributed systems**.  
-My focus is on **clean architecture**, **performance**, and **reliability** — building systems that are easy to maintain and ready to scale.
+My focus is on **clean architecture**, **performance**, and **reliability** building systems that are easy to maintain and ready to scale.
 
 I work mostly with **.NET, Node.js, Angular, React/Next.js**, and modern cloud infrastructure.
 
@@ -59,7 +59,6 @@ Microservices, Event-Driven Systems, Distributed Systems, Clean Architecture
 
 ## Contact
 
-- 📍 Baku, Azerbaijan  
 - 🔗 LinkedIn: https://linkedin.com/in/alizada-asim  
 - 📧 Email: asim.alizada.dev@gmail.com  
 
