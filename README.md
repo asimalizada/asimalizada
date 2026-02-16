@@ -1,18 +1,53 @@
-# 👋 Hi, I'm Asim Alizada
+<h1 align="center">Hi, I’m Asim Alizada 👋</h1>
+<p align="center">
+  Full-Stack Software Engineer • Cloud-Native Systems • Microservices
+</p>
 
-💻 Full-Stack .NET Developer | C# · .NET Core · Angular · SQL Server · Azure  
-🌐 Building scalable web apps and microservices
+<p align="center">
+  <a href="https://linkedin.com/in/alizada-asim">LinkedIn</a> •
+  <a href="https://github.com/asimalizada">GitHub</a> •
+  <a href="https://leetcode.com/asimalizada">LeetCode</a>
+</p>
 
-## 🧰 Tech Stack
-- C#, .NET Core, ASP.NET Core, Web API
-- Angular (TypeScript, RxJS), HTML, CSS, JavaScript
-- SQL Server, T-SQL, Entity Framework Core  
-- Azure DevOps, Git, Agile  
+---
 
-## 📂 Projects
-🔹 [simulation-engine](https://github.com/asimalizada/simulation-engine) — modular C# framework for dynamic systems
-🔹 [task-manager](https://github.com/asimalizada/task-manager) — web app built with Angular & TypeScript  
-🔹 [GuideWebService](https://github.com/asimalizada/GuideWebService) — .NET 6 REST API project  
+### 👨‍💻 About Me
 
-## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/alizada-asim) · [GitHub](https://github.com/asimalizada) · asim.alizada.dev@gmail.com
+I’m a Full-Stack Software Engineer with 4+ years of experience building scalable, cloud-native applications and distributed systems.  
+My work focuses on clean architecture, performance optimization, and delivering reliable backend services paired with modern frontend experiences.
+
+### 🛠 Tech Stack
+
+**Backend**  
+C#, .NET Core, ASP.NET Core, Node.js (NestJS, Express), GraphQL  
+
+**Frontend**  
+Angular, React, Next.js, TypeScript  
+
+**Data**  
+PostgreSQL, SQL Server, MongoDB  
+
+**Cloud & DevOps**  
+AWS, Azure, Docker, CI/CD  
+
+**Architecture & Practices**  
+Microservices, Event-Driven Systems, Distributed Systems, Clean Architecture
+
+### 🎯 What I Focus On
+
+- Designing maintainable, scalable backend systems  
+- Building high-performance APIs  
+- Developing modern web interfaces  
+- Improving reliability through clean architecture and profiling  
+
+### 📍 Location & Links
+
+- 📍 Baku, Azerbaijan  
+- 🔗 LinkedIn: https://linkedin.com/in/alizada-asim  
+- 🧩 LeetCode: https://leetcode.com/asimalizada  
+
+---
+
+<p align="center">
+  <i>Building reliable systems with clean architecture and scalable design.</i>
+</p>
