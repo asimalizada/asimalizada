@@ -31,10 +31,10 @@ React, Next.js, Angular, TypeScript
 **Data**  
 PostgreSQL, SQL Server, MongoDB
 
-### Infrastructure
+**Infrastructure**
 Docker, Kubernetes, AWS, CI/CD
 
-### Databases
+**Databases**
 PostgreSQL, MongoDB, SQL Server
 
 ---
