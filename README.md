@@ -31,19 +31,19 @@ React, Next.js, Angular, TypeScript
 **Data**  
 PostgreSQL, SQL Server, MongoDB
 
-**Infrastructure**
+**Infrastructure**  
 Docker, Kubernetes, AWS, CI/CD
 
-**Databases**
+**Databases**  
 PostgreSQL, MongoDB, SQL Server
 
 ---
 
 ## Selected Projects
 
-- **pulse-events** — Event-driven distributed system built with .NET and Node.js demonstrating asynchronous event processing, background workers and scalable service communication.
-- **simulation-engine** — Modular C# framework for dynamic systems  
-- **task-manager** — Web application built with Angular & TypeScript  
+- **pulse-events** - Event-driven distributed system built with .NET and Node.js demonstrating asynchronous event processing, background workers and scalable service communication.
+- **simulation-engine** - Modular C# framework for dynamic systems  
+- **task-manager** - Web application built with Angular & TypeScript  
 
 ---
 
